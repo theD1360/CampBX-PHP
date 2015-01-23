@@ -1,5 +1,7 @@
 <?php
 
+namespace CampBX;
+
 /*
  * CampBX API Library
  * 

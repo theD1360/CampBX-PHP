@@ -8,5 +8,10 @@
             "email": "lego.admin@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "CampBX": "campbx.php"
+        }
+    }
 }
