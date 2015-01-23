@@ -1,0 +1,12 @@
+{
+    "name": "thed1360/camp-bx-php",
+    "description": "campBX api",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Diego Alejos",
+            "email": "lego.admin@gmail.com"
+        }
+    ],
+    "require": {}
+}
